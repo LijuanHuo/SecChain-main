@@ -24,7 +24,8 @@ open the configuration file [params/global_config.go], configures the parameters
 
 ## 1.3 Quick Test
 
-click the `bat_sn=8_nn=4.sh` that is in the path of project to run the system
+Click the `bat_sn=8_nn=4.sh` that is in the path of project to run the system.
+
 Note: After each run, the following folders will be generated: `./log`, `./record`, and `./result`. These folders must be deleted before the next run.
 
 # 2. Usages Explaination
